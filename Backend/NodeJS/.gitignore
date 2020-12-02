@@ -1,0 +1,8 @@
+.project
+.DS_Store
+node_modules
+.idea
+public/users/*
+/nbproject/private/
+app2.css
+config.js
